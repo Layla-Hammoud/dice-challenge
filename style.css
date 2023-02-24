@@ -1,5 +1,7 @@
 body{
     overflow: hidden;
+    background-color: #F0BB32;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }
 .container{
     display: flex;
